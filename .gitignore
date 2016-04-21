@@ -1,0 +1,12 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/**
+/bin/
+test-output/**
+doc/**
+/build/
+.springBeans
+/log/
+WEB-INF/
